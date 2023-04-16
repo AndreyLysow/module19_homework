@@ -4,7 +4,7 @@
 ## by Lysov Andrey
 ---
 ## How to open/launch
-## Еhis Web project is deployed on the website https://andreylysow.github.io/HW-10
+## Еhis Web project is deployed on the website https://github.com/AndreyLysow/module19_homework.git
 ## Technologies used:
 * JS
 
@@ -54,7 +54,7 @@
 
 
 ---
-## The project is available on Githab at https://github.com/AndreyLysow/HW-10
+## The project is available on Githab at https://github.com/AndreyLysow/module19_homework.git
 ---
 
 
